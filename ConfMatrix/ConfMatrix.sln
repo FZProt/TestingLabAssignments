@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfMatrix", "ConfMatrix\ConfMatrix.csproj", "{71C2A9A2-0903-412D-8A72-E8E97B6CD7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfMatrixTest", "ConfMatrixTest\ConfMatrixTest.csproj", "{62F8D264-080D-4025-8867-F4E743134CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C2A9A2-0903-412D-8A72-E8E97B6CD7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C2A9A2-0903-412D-8A72-E8E97B6CD7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C2A9A2-0903-412D-8A72-E8E97B6CD7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C2A9A2-0903-412D-8A72-E8E97B6CD7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F8D264-080D-4025-8867-F4E743134CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F8D264-080D-4025-8867-F4E743134CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F8D264-080D-4025-8867-F4E743134CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F8D264-080D-4025-8867-F4E743134CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D17D8AE6-C27F-4BE5-A281-C498A60FEEE6}
+	EndGlobalSection
+EndGlobal
